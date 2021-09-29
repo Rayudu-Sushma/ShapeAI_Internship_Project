@@ -1,4 +1,4 @@
-# ShapeAI_Internship_Project
+# IMDB Data Analysis Project with help of SQL
 This Database Contains Movies Created By Several Directors In The World.
 
 This Database Can Be Seen At: https://www.kaggle.com/luizpaulodeoliveira/imdb-project-sql
